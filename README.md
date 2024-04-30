@@ -17,7 +17,7 @@ The trigger + sear combo will produce a defined wall and crisp break, initially 
 
 
 
-- I recommend printing the handset with 6 wall loops, 25% infill, and with fuzzy skin enabled (0.3mm x 0.3mm)
+- If using PLA and a 0.4mm nozzle, I recommend printing the handset with 6 wall loops, 25% infill, and with fuzzy skin enabled and set to contour (0.3mm x 0.3mm)
 
 - Print the sear lying flat on its side with the smallest layer height and highest quality your printer can manage, using 6 wall loops, 25% infill and fuzzy skin disabled.
 
