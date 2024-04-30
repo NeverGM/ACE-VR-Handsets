@@ -17,11 +17,11 @@ The trigger + sear combo will produce a defined wall and crisp break, initially 
 
 
 **All settings below assume you are using PLA as your material and have a 0.4mm nozzle**
-- Orient the model so the mag basepad is flat on the build plate. Use tree supports, and print with 6 wall loops, 25% spare infill density, and with fuzzy skin enabled and set to contour (0.3mm x 0.3mm)
+- Orient the model so the mag basepad is flat on the build plate. Use tree supports, and print with 6 wall loops, 25% sparse infill density, and with fuzzy skin enabled and set to contour (0.3mm x 0.3mm)
 
-- Print the sear lying flat on its side with the smallest layer height and highest quality your printer can manage, using 6 wall loops, 25% spare infill density, and fuzzy skin disabled.
+- Print the sear lying flat on its side with the smallest layer height and highest quality your printer can manage, using 6 wall loops, 25% sparse infill density, and fuzzy skin disabled.
 
-- The trigger and mag release should also be printed with 6 wall loops, 25% spare infill density, and fuzzy skin disabled, at whatever layer height you prefer.
+- The trigger and mag release should also be printed with 6 wall loops, 25% sparse infill density, and fuzzy skin disabled, at whatever layer height you prefer.
 
 
 
