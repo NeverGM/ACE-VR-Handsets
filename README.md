@@ -12,7 +12,7 @@ Includes handset, trigger, mag release, and sear.
 
 
 
-The trigger + sear combo will produce a defined wall and crisp break, initially breaking at 3.5 pounds, but lightening relatively quickly to 2 - 2.5 pounds after pulling the trigger multiple times.
+The trigger + sear combo will produce a defined wall and crisp break, initially breaking at 3.5 pounds, but lightening relatively quickly to 2.5 pounds after pulling the trigger multiple times.
 
 
 
