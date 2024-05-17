@@ -5,9 +5,9 @@ Includes handset, trigger, mag release, and sear.
 
 
 
-- 5" slide model is "fullsize_2011.stl"
+- 5" slide model is "fullsize_2011_V2.stl"
 
-- 4.25" slide model is "commander_2011.stl"
+- 4.25" slide model is "commander_2011_V2.stl"
 
 
 
@@ -16,8 +16,8 @@ The trigger + sear combo will produce a defined wall and crisp break, initially 
 
 
 
-**All settings below assume you are using PLA as your material and have a 0.4mm nozzle**
-- Orient the model so the mag basepad is flat on the build plate. Use tree supports, and print with 6 wall loops, 25% sparse infill density, and with fuzzy skin enabled and set to contour (0.3mm x 0.3mm)
+**All settings below assume you are using PLA as your material and have a 0.4mm nozzle using 0.20mm layer height**
+- Orient the model so the mag basepad is flat on the build plate. Use tree supports (organic), and print with 6 wall loops, 25% sparse infill density. If you want the grip area to have texture, use fuzzyskin_modifier.stl and set the fuzzy skin value of the modifier to 0.2mm distance x 0.5mm thickness
 
 - Print the sear lying flat on its side with the smallest layer height and highest quality your printer can manage, using 6 wall loops, 25% sparse infill density, and fuzzy skin disabled.
 
