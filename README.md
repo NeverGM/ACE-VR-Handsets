@@ -1,6 +1,6 @@
 A full 2011 kit for ACE VR. These are parts intended for VR handsets and are not compatible with the real thing.
 
-Includes handset, trigger, mag release, and sear. 
+Includes handset, trigger, mag release, lifter arm and sear. 
 
 
 
@@ -19,7 +19,7 @@ The trigger + sear combo will produce a defined wall and crisp break, initially 
 **All settings below assume you are using PLA as your material and have a 0.4mm nozzle using 0.20mm layer height**
 - Orient the model so the mag basepad is flat on the build plate. Use tree supports (organic), and print with 6 wall loops, 25% sparse infill density. If you want the grip area to have texture, use fuzzyskin_modifier.stl and set the fuzzy skin value of the modifier to 0.2mm distance x 0.5mm thickness
 
-- Print the sear lying flat on its side with the smallest layer height and highest quality your printer can manage, using 6 wall loops, 25% sparse infill density, and fuzzy skin disabled.
+- Print the sear and lifter arm lying flat their its side with the smallest layer height and highest quality your printer can manage, using 6 wall loops, 25% sparse infill density, and fuzzy skin disabled.
 
 - The trigger and mag release should also be printed with 6 wall loops, 25% sparse infill density, and fuzzy skin disabled, at whatever layer height you prefer.
 
